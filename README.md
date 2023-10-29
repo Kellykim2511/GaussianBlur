@@ -38,5 +38,7 @@ Nhấn nút "LÀM MỜ - BLUR" để áp dụng bộ lọc làm mờ Gaussian ch
 Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã làm mờ sẽ được hiển thị bên phải.
 
 ## Hình ảnh hiển thị:
+- Hình trước khi chỉnh sửa:
+  <img src="gaussianblir/meogoc.png" width="420">
 ![](images_dir/image_path.jpg)
 **Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
