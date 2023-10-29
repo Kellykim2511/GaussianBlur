@@ -40,5 +40,5 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 ## Hình ảnh hiển thị:
 - Hình trước khi chỉnh sửa:
   <img src="[gaussianblir/meogoc.png](https://github.com/Kellykim2511/GaussianBlur/blob/main/gaussianblur/meoblur.JPG)">
-  <img src="gaussianblir/meogoc.png"
+  <img src="gaussianblir/meogoc.png">
 **Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
