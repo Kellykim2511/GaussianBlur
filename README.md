@@ -39,5 +39,7 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 
 ## Hình ảnh hiển thị
 #### Hình 1
+![](/images/pic01.jpg)
+/images/pic01.jpg
 ---
 **Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
