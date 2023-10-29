@@ -38,35 +38,64 @@ Nhấn nút "LÀM MỜ - BLUR" để áp dụng bộ lọc làm mờ Gaussian ch
 Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã làm mờ sẽ được hiển thị bên phải
 
 ## Hình ảnh hiển thị
-#### Hình 1: Trước và sau khi chỉnh sửa
-<img src="/images/pic01.jpg" width="420"> <img src="/images/pic01blur.jpg" width="420">
+#### Hình 1: 
+- Trước khi chỉnh sửa
+<img src="/images/pic01.jpg" width="420"> 
+- Sau khi chỉnh sửa
+<img src="/images/pic01blur.jpg" width="420">
 
-#### Hình 2: Trước và sau khi chỉnh sửa
-<img src="/images/pic02.jpg" width="420"> <img src="/images/pic02blur.jpg" width="420">
+#### Hình 2:
+- Trước khi chỉnh sửa
+<img src="/images/pic02.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic02blur.jpg" width="420">
 
-#### Hình 3: Trước và sau khi chỉnh sửa
-<img src="/images/pic03.jpg" width="420"> <img src="/images/pic03blur.jpg" width="420">
+#### Hình 3:
+- Trước khi chỉnh sửa
+<img src="/images/pic03.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic03blur.jpg" width="420">
 
-#### Hình 4: Trước và sau khi chỉnh sửa
-<img src="/images/pic04.jpg" width="420"> <img src="/images/pic04blur.jpg" width="420">
+#### Hình 4:
+- Trước khi chỉnh sửa
+<img src="/images/pic04.jpg" width="420">
+<img src="/images/pic04blur.jpg" width="420">
 
-#### Hình 5: Trước và sau khi chỉnh sửa
-<img src="/images/pic05.jpg" width="420"> <img src="/images/pic05blur.jpg" width="420">
+#### Hình 5:
+- Trước khi chỉnh sửa
+<img src="/images/pic05.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic05blur.jpg" width="420">
 
-#### Hình 6: Trước và sau khi chỉnh sửa
-<img src="/images/pic06.jpg" width="420"> <img src="/images/pic06blur.jpg" width="420">
+#### Hình 6:
+- Trước khi chỉnh sửa
+<img src="/images/pic06.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic06blur.jpg" width="420">
 
-#### Hình 7: Trước và sau khi chỉnh sửa
-<img src="/images/pic07.jpg" width="420"> <img src="/images/pic07blur.jpg" width="420">
+#### Hình 7:
+- Trước khi chỉnh sửa
+<img src="/images/pic07.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic07blur.jpg" width="420">
 
-#### Hình 8: Trước và sau khi chỉnh sửa
-<img src="/images/pic08.jpg" width="420"> <img src="/images/pic08blur.jpg" width="420">
+#### Hình 8:
+- Trước khi chỉnh sửa
+<img src="/images/pic08.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic08blur.jpg" width="420">
 
-#### Hình 9: Trước và sau khi chỉnh sửa
-<img src="/images/pic09.jpg" width="420"> <img src="/images/pic09blur.jpg" width="420">
+#### Hình 9:
+- Trước khi chỉnh sửa
+<img src="/images/pic09.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic09blur.jpg" width="420">
 
-#### Hình 10: Trước và sau khi chỉnh sửa
-<img src="/images/pic10.jpg" width="420"> <img src="/images/pic10blur.jpg" width="420">
+#### Hình 10:
+- Trước khi chỉnh sửa
+<img src="/images/pic10.jpg" width="420">
+- Sau khi chỉnh sửa
+<img src="/images/pic10blur.jpg" width="420">
 
 ---
 **Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
