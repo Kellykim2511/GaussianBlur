@@ -42,7 +42,7 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 - Trước khi chỉnh sửa
 <img src="/images/pic01.jpg" width="420"> 
 - Sau khi chỉnh sửa
-<img src="/images/pic01blur.jpg" width="420">
+<img src="/images/pic01blur.JPG" width="420">
 
 #### Hình 2:
 - Trước khi chỉnh sửa
