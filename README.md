@@ -1,6 +1,6 @@
 # TiKaY - Ứng Dụng Làm Mờ Ảnh Gaussian
 ## Giới thiệu
-TiKaY là một ứng dụng Python đơn giản được xây dựng bằng thư viện tkinter để tạo giao diện người dùng đồ họa và thư viện PIL (Pillow) để xử lý ảnh. Ứng dụng này cho phép người dùng tải lên một hình ảnh, áp dụng bộ lọc làm mờ Gaussian cho hình ảnh và xem hình ảnh gốc và hình ảnh đã làm mờ cùng một lúc.
+- TiKaY là một ứng dụng Python đơn giản được xây dựng bằng thư viện tkinter để tạo giao diện người dùng đồ họa và thư viện PIL (Pillow) để xử lý ảnh. Ứng dụng này cho phép người dùng tải lên một hình ảnh, áp dụng bộ lọc làm mờ Gaussian cho hình ảnh và xem hình ảnh gốc và hình ảnh đã làm mờ cùng một lúc.
 
 ## Tính Năng:
 -Tải Lên Hình Ảnh: Nhấn nút "Tải Lên Hình Ảnh" để chọn một tệp hình ảnh từ máy tính của bạn. Hình ảnh đã tải lên sẽ được hiển thị bên trái của giao diện.
