@@ -36,4 +36,7 @@ Nhấn nút "LÀM MỜ - BLUR" để áp dụng bộ lọc làm mờ Gaussian ch
 
 -  Xem Kết Quả:
 Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã làm mờ sẽ được hiển thị bên phải.
-***Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!*** 
+
+## Hình ảnh hiển thị:
+![](images_dir/image_path.jpg)
+**Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
