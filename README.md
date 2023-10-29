@@ -25,14 +25,15 @@ git clone https://github.com/ten-dang-nhap-cua-ban/TiKaY-Gaussian-Blur-App.git
 ` python main.py `
 
 - Tải Lên Một Hình Ảnh:
-Nhấn nút "Tải Lên Hình Ảnh".
+Nhấn nút "Tải Lên Hình Ảnh - Upload Image".
 Chọn một tệp hình ảnh từ máy tính của bạn.
 
 - Thiết Lập Độ Mờ:
-Nhập giá trị nguyên biểu thị cho độ mờ vào trường nhập liệu.
+Nhập giá trị nguyên biểu thị cho độ mờ vào trường nhập liệu (thay đổi giá trị trong "Blur Radius")
 
 - Áp Dụng Mờ:
-Nhấn nút "LÀM MỜ" để áp dụng bộ lọc làm mờ Gaussian cho hình ảnh đã tải lên.
+Nhấn nút "LÀM MỜ - BLUR" để áp dụng bộ lọc làm mờ Gaussian cho hình ảnh đã tải lên.
 
 -  Xem Kết Quả:
 Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã làm mờ sẽ được hiển thị bên phải.
+***Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!*** 
