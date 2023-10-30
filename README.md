@@ -100,6 +100,9 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 ---
 **Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
 ***Thành viên nhóm:***
+
 ***1. Lê Huỳnh Phương Khánh - 207CT27997***
+
 ***2. Trần Thị Thanh Thảo - 207CT58591***
+
 ***3. Nguyễn Thị Xuân Ý - 207CT28800***
