@@ -40,7 +40,8 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 ## Hình ảnh hiển thị
 #### Hình 1: 
 - Trước khi chỉnh sửa
-<img src="/images/pic01.jpg" width="420"> 
+<img src="/images/pic01.jpg" width="420">
+
 - Sau khi chỉnh sửa
 <img src="/images/pic01blur.JPG" width="420">
 
@@ -53,12 +54,15 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 #### Hình 3:
 - Trước khi chỉnh sửa
 <img src="/images/pic03.jpg" width="420">
+
 - Sau khi chỉnh sửa
 <img src="/images/pic03blur.JPG" width="420">
 
 #### Hình 4:
 - Trước khi chỉnh sửa
 <img src="/images/pic04.jpg" width="420">
+
+- Sau khi chỉnh sửa
 <img src="/images/pic04blur.JPG" width="420">
 
 #### Hình 5:
@@ -70,6 +74,7 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 #### Hình 6:
 - Trước khi chỉnh sửa
 <img src="/images/pic06.jpg" width="420">
+
 - Sau khi chỉnh sửa
 <img src="/images/pic06blur.JPG" width="420">
 
@@ -82,23 +87,27 @@ Hình ảnh gốc sẽ được hiển thị bên trái, và hình ảnh đã l�
 #### Hình 8:
 - Trước khi chỉnh sửa
 <img src="/images/pic08.jpg" width="420">
+
 - Sau khi chỉnh sửa
 <img src="/images/pic08blur.JPG" width="420">
 
 #### Hình 9:
 - Trước khi chỉnh sửa
 <img src="/images/pic09.jpg" width="420">
+
 - Sau khi chỉnh sửa
 <img src="/images/pic09blur.JPG" width="420">
 
 #### Hình 10:
 - Trước khi chỉnh sửa
 <img src="/images/pic10.jpg" width="420">
+
 - Sau khi chỉnh sửa
 <img src="/images/pic10blur.JPG" width="420">
 
 ---
 **Nhóm TiKaY xin cảm ơn rất nhiều vì đã dành thời gian xem qua đồ án của nhóm ạ!**
+
 ***Thành viên nhóm:***
 
 ***1. Lê Huỳnh Phương Khánh - 207CT27997***
