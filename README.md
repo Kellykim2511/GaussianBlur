@@ -16,8 +16,8 @@ Python 3.x
 
 ## Hướng Dẫn Sử Dụng:
 - Sao Chép Repository:
-git clone https://github.com/ten-dang-nhap-cua-ban/TiKaY-Gaussian-Blur-App.git
-
+git clone [https://github.com/ten-dang-nhap-cua-ban/TiKaY-Gaussian-Blur-App.git
+](https://github.com/Kellykim2511/GaussianBlur/blob/main/TiKaY_GaussianBlur.py)
 - Di Chuyển Đến Thư Mục Dự Án:
 `cd TiKaY-Gaussian-Blur-App`
 
